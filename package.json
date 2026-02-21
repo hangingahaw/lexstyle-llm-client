@@ -36,10 +36,10 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hangingahaw/llm-client.git"
+    "url": "git+https://github.com/hangingahaw/lexstyle-llm-client.git"
   },
-  "homepage": "https://github.com/hangingahaw/llm-client#readme",
-  "bugs": { "url": "https://github.com/hangingahaw/llm-client/issues" },
+  "homepage": "https://github.com/hangingahaw/lexstyle-llm-client#readme",
+  "bugs": { "url": "https://github.com/hangingahaw/lexstyle-llm-client/issues" },
   "dependencies": {
     "openai": "^4.50.0"
   },

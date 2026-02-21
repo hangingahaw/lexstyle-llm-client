@@ -1,7 +1,7 @@
 # @lexstyle/llm-client
 
 [![npm](https://img.shields.io/npm/v/@lexstyle/llm-client)](https://www.npmjs.com/package/@lexstyle/llm-client)
-[![license](https://img.shields.io/npm/l/@lexstyle/llm-client)](https://github.com/hangingahaw/llm-client/blob/main/LICENSE)
+[![license](https://img.shields.io/npm/l/@lexstyle/llm-client)](https://github.com/hangingahaw/lexstyle-llm-client/blob/main/LICENSE)
 
 Shared LLM client for [lexstyle](https://github.com/hangingahaw/lexstyle) text-correction tools.
 
